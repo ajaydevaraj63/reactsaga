@@ -1,0 +1,1080 @@
+train_data = [
+
+{  
+
+ context :  "In addition to public boards for discussions and finding solutions, the Spotify Community offers a private messaging feature that allows users to send and receive messages only visible to them. The moderator team may also use private messages to communicate with users individually. By default, this feature is disabled, but if you are 18 years or older and wish to enable it, you can follow these steps: Click on your profile name, look for the 'mail' icon with an exclamation mark,click on the icon to access the Private Messenger settings, read the disclaimer and choose to accept and confirm if you agree. Once enabled, you can access your inbox by clicking on the mailbox icon to read, reply, and send private messages. If you change your mind and want to disable the feature, you can do so by accessing your Community account settings and following similar steps: Click on your profile name, go to My Settings > Personal > Private Messenger, choose to decline,and confirm your decision.If you encounter a 500 error code message when trying to log in to the Spotify Community, there are a few troubleshooting steps you can follow. First, check if you can log in to your Spotify account normally by opening it in an incognito window or another web browser. If you are unable to log in to your Spotify account, the issue may be related to your account, and you can refer to Spotify's troubleshooting steps for further assistance. However,if you can log in to Spotify successfully but still face difficulties logging in to the Community,it is recommended to check if your Spotify account's display name contains an emoji. If it does, simply remove the emoji from your display name,and you should be able to log in to the Community without any issues.Being a part of the Spotify Star Program offers numerous rewards and benefits that make it a rewarding experience. While the program provides testing opportunities and backstage information, the real value lies in the sense of closeness to Spotify that participants gain. The program fosters a feeling of being valued, motivated, and appreciated through various rewards. Monthly calls with staff provide insights and skill development, allowing participants to influence how users experience Spotify and acquire transferable skills for future opportunities.Additionally, top contributors in the program can expect surprises in the form of branded swag. The program utilizes a point system to recognize and reward activity and high-quality engagement. The Star Leaderboard, updated monthly, highlights participants' positions and emphasizes the importance of their contributions. While the competitive element exists, the focus is on quality rather than simply racing to accumulate points.Advancing through the ranks using points grants participants the opportunity to attend exclusive Star-only events. These events include virtual gatherings to celebrate values and team camaraderie, as well as the highly anticipated Annual Spotify Star Jam. Depending on the circumstances, the Jam can be either an in-person or virtual event. The top ten contributors may visit Spotify's head offices for an all-expenses-paid experience, while all Stars can participate online, with the top ten contributors receiving additional exclusive calls and meetings. These events involve dedicated workshops, team-building activities, and interactions with Spotify.Considering the program's foundation in music, participants also have access to Premium perks. Active and consistent contributors become eligible for the Quarterly Free Premium initiative, providing them with free Premium access. Additionally, participants can redeem their points for regular Premium subscriptions, although Family, Student, and Duo plans are not currently available for redemption.In summary, being a part of the Spotify Star ranks offers a range of benefits, including a close connection to Spotify, insights, skill development, branded swag, exclusive events, and Premium perks. It is a rewarding experience that recognizes and appreciates the contributions of participants in the Spotify Community.Spotify community is that here,music fans like you from all walks of life come together to share their Spotify knowledge, discuss ideas, talk music and trade answers to questions.The Spotify app offers compatibility with accessibility settings on various devices, allowing users to enhance their Spotify experience based on their individual needs. Whether you're using iOS or Android, you can customize the app's accessibility settings to suit your preferences.For iOS users, the Spotify app provides options such as mono audio, which plays the same audio through both left and right speakers, creating a balanced sound experience. Normalize volume ensures that songs are played at consistent levels, preventing sudden volume changes between tracks. The volume level can be adjusted according to your environment, allowing you to set the optimal sound level. If you find the short, looping visuals on tracks distracting, you can easily turn off the Canvas feature.Additionally, certain Spotify Originals podcasts have auto-generated transcripts available as part of a limited beta test. Users can enable VoiceOver, which provides audible descriptions of on-screen elements, and adjust the motion settings to reduce or stop the movement of certain elements. Those with Bluetooth wireless Braille displays can connect them to their device for reading VoiceOver output.For users on Android devices, Spotify offers similar accessibility settings, such as mono audio, balance adjustment between left and right speakers or headphones, and phone noise cancellation to reduce background noise during phone calls in noisy environments. The TalkBack screen reader enables touch and spoken feedback for interacting with the device, providing descriptions of actions, alerts, and notifications. Android users can also utilize features like high contrast text, color inversion, color correction, magnification, font size adjustment, screen zoom, and support for Braille displays.Regarding the highly requested 'Light Theme' UI feature, Spotify has acknowledged the user feedback and regularly communicates it to the development teams. While the feature is currently set to 'Not Right Now' and may not be implemented in the immediate future, Spotify remains open to the possibility of introducing it in subsequent app updates. Users can show their support for the 'Light Theme' idea by adding their +Vote and subscribing for updates on its progress.To share a song or album, you can follow these steps. First, click the three dots next to the song or album you want to share. Then, from the menu that appears, select the 'Share' option. This will bring up a submenu with multiple sharing options. You can choose to share through various social media platforms, use a Spotify Code, or copy the Song Link, Embed Code, or Spotify URI. The steps for sharing on mobile devices are quite similar. Simply tap the three dots next to the song or album, and then tap 'Share' to access the sharing options.To edit a playlist on both Android and iOS devices, you can follow these steps: Tap on the three dots at the top of the playlist. From the options that appear, select 'Edit playlist.' This will take you to a page where you can modify the playlist's name, songs, description, and cover. If you need further assistance, you can search for more Spotify Answers or ask the Community in a new thread.'To access your listening history on Spotify, follow these steps:On desktop, click on the Queue icon located at the bottom right. Then select 'Recently played' at the top to view a list of the last 50 tracks you've listened to on that device. You can also find recently played albums and playlists on the Home page.On the mobile app, go to the Home page and select the Listening history icon to see a list of recently played albums, playlists, and tracks.For a more detailed listening history, you can consider scrobbling with Last.fm.Additionally, Spotify allows you to download a copy of your personal data, which includes your streaming history for the last year or the lifetime of your account. This data includes track information as well as timestamps for when and how you streamed content.I hope this helps! Let me know if you have any further questions.Spotify doesn't recommend downloading old versions of the app.To ensure using Spotify safely, always download from our official sources:the website, and the relevant app stores.Here's a workaround that is not an official solution: try adjusting the volume on Spotify to the maximum level and control the volume through your computer's speaker volume. This way, the ads should have the same volume as your music. You can still modify the volume of your songs using your computer instead of the volume bar on Spotify. On the mobile app, go to the Home page and select the Listening history icon to see a list of your recently played albums, playlists, and tracks. For a more detailed listening history, you can learn how to scrobble with Last.fm. Additionally, you have the option to download a copy of your personal data, which includes your streaming history for the last year or the entire lifetime of your account, including track information and details of your streaming activity A Spotify URI (Uniform Resource Indicator) is a direct link to a track, album, or artist profile on Spotify. It can be found in the Share menu of any item on Spotify. When you click a Spotify URI link, it opens the Spotify application directly, bypassing the need to go through a web page. To obtain a Spotify URI, you can go to the three dots, open the Share menu, and while holding down the modifier key (Alt/Ctrl), select 'Copy Spotify URI.n response to numerous requests from the community, many people have expressed their desire for specific tracks, albums, or artists to be added to Spotify. While Spotify aims to make all the world's music available, the availability of songs is dependent on obtaining permissions from the rights holders. Nevertheless, Spotify continues to add new music every week, and it is hopeful that the desired choices will be included in the future.If you are unable to find a particular item in your library, there are a few things you can check. On mobile, ensure that you have not accidentally hidden anything with a filter by pulling down the screen to view your filters. If that is not the case, it's possible that you have the item saved on a different Spotify account. In such cases, try logging out and then logging back in with alternative login details.If you still cannot locate the item, it is possible that it did not save correctly to your library. To find it, use the search function on Spotify and try liking or adding it to your library again by clicking the green heart icon.In the event that you suspect unauthorized access to your account, refer to the 'Think your account's been hacked?' section for further assistance and steps to secure your account.If you're experiencing connection issues with Spotify, there are several troubleshooting steps you can try. First, check the @SpotifyStatus Twitter account to see if there are any ongoing issues reported by Spotify. Make sure that Spotify is not in offline mode by checking the app's Settings under Playback. If you're using a data connection, ensure that you have enough data allowance or consider using a WiFi connection if possible. Check your router and make sure that UPnP (Universal Plug and Play) is enabled. If it's already enabled, try turning it off and then on again.Verify that your router allows both inbound and outbound connections for Spotify and ensure that your firewall software permits Spotify access. Temporarily disabling any antivirus, anti-hack, or other security software may help identify if they are causing conflicts with Spotify. Restart your router by turning it off for 10 minutes and then turning it back on. If you're using a shared or public network such as those in schools or offices, contact the network administrators for more information on any restrictions.If possible, test Spotify with a different WiFi network to determine if the issue is specific to your network. If it works on another network, contacting your original service provider is recommended. Additionally, consider the following factors: check if the issue occurs on both WiFi and mobile data connections, be aware that VPNs may cause access issues to Spotify webpages, consider your location as Spotify may not be available everywhere, and take note of any specific hours when the issue frequently occurs, as heavy internet traffic during those times may contribute to the problem.If you have set the streaming quality to 'High,' it may require a stronger connection, which can lead to issues in areas with weak connectivity. You can confirm if this is the case by conducting a speed test using a trusted site like http://www.speedtest.net/.If you have recently deleted a playlist within the last 90 days, there are two ways to recover it. The first method is to use the playlist recovery feature. To do this, log in to your Spotify account page, navigate to the menu on the left, and click on 'Recover playlists.' From there, locate the playlist you want to restore and click on 'RESTORE.' Once you've done that, open Spotify, and you'll find the recovered playlist at the bottom of your playlist collection.Alternatively, you can use keyboard shortcuts to quickly undo something you deleted. For Mac users, press Cmd+Z, and for Windows users, press Ctrl+Shift+Z. This keyboard shortcut will immediately undo the deletion and restore the playlist or item you deleted.Sometimes, users report issues with Spotify's shuffle feature not working properly. In 2016, Spotify made improvements to their shuffle algorithm, which became the default setting for all users. However, they appreciate the feedback received and continue to relay user thoughts to their developers. Despite these improvements, there are still occasional cases where the shuffle function may not work correctly for individual users. Spotify provides troubleshooting steps and threads related to these specific issues to help address them.Sometimes, users report issues with Spotify's shuffle feature not working properly. In 2016, Spotify made improvements to their shuffle algorithm, which became the default setting for all users. However, they appreciate the feedback received and continue to relay user thoughts to their developers. Despite these improvements, there are still occasional cases where the shuffle function may not work correctly for individual users. Spotify provides troubleshooting steps and threads related to these specific issues to help address themIf you're a new user on Spotify, the platform will require some information about your music preferences before it can create personalized playlists for you. Usually, it takes about two weeks of active listening for Spotify to generate your Daily Mix and Release Radar playlists. If you don't see these playlists after that time, you can try restarting or updating the Spotify app. Additionally, you may want to try accessing them on another device. These playlists should appear under the 'Made For You' section within the app. If you need more detailed information about the Daily Mix and Release Radar playlists, you can find it on Spotify's official websiteIf you are facing difficulties with Spotify's ability to save offline music to the SD card or if you receive an error message stating 'Disk is full,' you can try the following steps to resolve the issue. First, go to your device's System Settings and navigate to the 'Apps' section. Locate and select the Spotify app from the list of installed applications. On the Spotify app page, begin by tapping 'Force Close' to ensure the app is completely shut down. If the option is available, tap on 'Clear cache' to remove any temporary data that might be causing the problem. Next, proceed to tap 'Uninstall' to remove the Spotify app from your device. Once the uninstallation process is complete, power off your device. If you can, remove the battery and then power the device back on. Using a file manager app on your phone, navigate to the Internal Storage > Android > Data directory. Locate and delete a folder named 'com.spotify.mobile.android.ui' from the Data directory. Finally, reinstall Spotify from the Google Play Store. By following these steps, you may be able to overcome issues related to saving offline music to your SD card or encountering a 'Disk is full' error message in Spotify.If you are experiencing problems with Spotify's inability to save offline music to the SD card or if you receive a 'Disk is full' error message, you can try the following steps to attempt saving to your SD card:First, go to your device's System Settings and navigate to the 'Apps' section. Locate and select the Spotify app from the list. On the Spotify app page, start by tapping 'Force Close' to completely shut down the app.If available, tap on 'Clear cache' (if it's not greyed out) to remove any temporary data that might be causing the issue. Then proceed by tapping 'Uninstall' to remove the Spotify app from your device.Once the uninstallation is complete, power off your device. If possible, remove the battery from your device, then power it back on. Use a file manager app on your phone to navigate to the Internal Storage > Android > Data directory.Delete a folder called 'com.spotify.mobile.android.ui' from the Data directory. Finally, reinstall Spotify from the Google Play Store.By following these steps, you may be able to resolve issues related to saving offline music to an SD card or encountering a 'Disk is full', error on Spotify.To become a Spotify Star, a recognized member of the Spotify Community, you'll need to go through an application process. The Community team will review your application and consider you as a potential candidate based on certain criteria They will look for users who have been active members of the Community for at least three months, although this is not a strict requirement. Being familiar with how the Community works is important for becoming a superuser with advanced permissions. Having helpful and engaging posts is another aspect they consider. They evaluate the quality and consistency of your contributions, such as assisting other users, providing explanations, troubleshooting, sharing helpfulresources,and actively engaging in discussions with other users in the Chat section. The program is currently open to individuals over the age of 18. If you're younger, you can reapply at a later time.At present, the program accepts application  submitted in English, as it is the officially supported language of the Community. However, this may change in the future, and any updates will be communicated.Once you submit your application, the Community team will contact you through Private Messages to inform you about the next steps. Make sure your Community PMs are enabled if you're over 18 to receive their message.Detailed instructions on how to enable Community PMs will be provided.Becoming a Spotify Star is an opportunity to contribute to the Community, help fellow users, discuss music-related topics, and assist in managing ideas.If you're unhappy with a post you made in the Community and wish to have it completely removed, you can follow these steps. First,find the post you want to delete and locate the three-dot menu beside it. From the menu options, select  Report Inappropriate Content.This action will redirect you to a page where you can explain the reason for your report. Clearly state that you would like your post to be deleted.Once you've provided the necessary information, click on  Notify Moderator.  After completing these steps, a Community Moderator will promptly remove your post.Please remember that you can only edit or delete your own posts.If you want to update your profile picture in the Community, you have the option to select from available pictures once you reach a specific rank.To choose your preferred picture, visit the designated location. However, please be aware that uploading your own profile picture in the Community is currently a perk reserved for Spotify Stars.You can find more information about the Spotify Stars Program, including how to join, on the Spotify Stars Program page. If you're looking to change your profile picture in the Spotify app instead,you can follow the steps outlined in a separate guide.ChatGPT,Chat is a dedicated space within Spotify where users can engage in discussions and share their love for music and podcasts. It focuses on supporting emerging artists and provides various categories for users to post and interact with each other. The six categories in Chat include Music Exchange, where users can share favorite tracks and collaborate on playlists,Chat is a dedicated space within Spotify where users can engage in discussions and share their love for music and podcasts. It focuses on supporting emerging artists and provides various categories for users to post and interact with each other. The six categories in Chat include Music Exchange, where users can share favorite tracks and collaborate on playlists,for deeper conversations about music and artists,Social & Random, offering music games, listening parties, and opportunities to connect with other users  .App & Features, where users can exchange tips and optimize their Spotify experience; and Podcast Discussion, dedicated to discussing noteworthy shows and creators.To ensure a positive experience for all users, there are guidelines to follow. Users should use the appropriate category when creating a new thread and keep their posts relevant to the thread's topic. Repetitive posting of the same track or playlist URI within a thread or within a 10-day period is discouraged.Commercial profit-seeking activities, such as exchanges of favors or transactional requests, are not allowed. Links to music or podcasts from channels other than Spotify should only be shared if they are unavailable on Spotify.As an artist or creator, users can share their work in the Discovery & Promo category,but it's important to provide context and details about themselves and their creations, rather than simply sharing a link. Authors of threads have a responsibility to moderate the content posted in their threads, ensuring adherence to the guidelines. If users post irrelevant or spammy content, authors can reply to them within the thread to bring them back on topic. If necessary, authors can report users who violate the guidelines to the Community Moderators for further action.By following these guidelines and utilizing Chat appropriately, users can contribute to meaningful discussions, promote emerging artists, and have a rewarding experience within the Spotify Community.  The Idea Exchange within the Spotify Community is a highly active and dynamic space where users can share their ideas and engage in discussions. Many users often have questions about how the Ideas Exchange works and its impact on Spotify's decision-making process.To address these inquiries, the Community team collaborates with various teams at Spotify HQ on a regular basis, specifically focusing on ideas that have garnered significant votes.Ideas that receive more than 50 votes within a span of 3 months are recognized as  Good Suggestions,  indicating their initial viability. Similarly, ideas that amass 180 votes within 6 months are labeled as  Live Ideas  and are brought to the attention of the Spotify team.Moreover, ideas that initially lacked sufficient votes but manage to reach 500 votes within 18 months are also considered for further evaluation.For ideas that progress to the next stage, there are two potential outcomes. If an idea is  Implemented, it means that the proposed feature or enhancement has been successfully developed and integrated into the Spotify platform. On the other hand, if an idea is marked as  Case Closed,  it signifies that it has been discussed internally but is not currently part of Spotify's immediate timeline.However, this doesn't rule out the possibility of revisiting and implementing the idea in the future.While votes play a crucial role in determining the popularity and support for an idea, they are not the sole determining factor in Spotify's decision-making process. The company also takes into account various other aspects, including their commitment to supporting artists, data analysis and insights, research testing, feedback from the Community and other support channels, and alignment with their overall short- and long-term business strategy.Furthermore, even if Spotify introduces a feature or improvement that originated independently of the Community, they make it a point to acknowledge the corresponding idea within the Community, regardless of its vote count, and provide an announcement.Overall, the Idea Exchange serves as a valuable platform for users to contribute their ideas, and Spotify considers a range of factors alongside votes to shape their future developments and enhancements.To submit your idea, start by searching for existing ideas in the Idea Exchange to ensure your suggestion hasn't been posted before.If you don't find any similar ideas, proceed to submit your own. Enter a subject for your idea and click on  Check Title  to review if any similar ideas have been posted. If none match your suggestion, scroll down to the bottom of the page and click on  Continue and Post  to submit your idea. To ensure an optimal Chat experience for everyone, it's important to follow a few guidelines. Firstly, 	when creating a new thread, make sure to choose the appropriate category that aligns with the topic of your post.	This helps keep the discussions organized and relevant. Secondly.To navigate the Community, users can access different areas through the sidebar menu. By clicking or tapping the menu icon,they can select a specific area and explore its boards or content. The sidebar allows easy access to different sections and their respective boards.The provided instructions explain how to change your username on a Community page. By tapping the gear icon,you can access the Community settings and view your current username.To change it, remove the existing username and enter your preferred one in the username field.Clicking  CHANGE USERNAME  will initiate the change. It is important to note that if your preferred username is already taken,you will need to edit it before proceeding.				 To update your avatar or profile picture in the Spotify Community,you can select from the available options once you reach a specific rank.Visit the designated page to choose your preferred picture. However, it's important to note that uploading your own profile picture is currently a perk reserved for Spotify Stars. For more information on the Spotify Stars Program and how to join, refer to the program's dedicated page. If you wish to change your profile picture in the Spotify app itself, 	follow the provided steps instead. "
+
+ ,
+ train_data : {
+     qas : [
+
+        	{
+			 answers :[
+			{
+				 answer_start :1752 ,
+				 text :
+Being a part of the Spotify Star Program offers numerous rewards and benefits that make it a rewarding experience. While the program provides testing opportunities and backstage information, the real value lies in the sense of closeness to Spotify that participants gain. The program fosters a feeling of being valued, motivated, and appreciated through various rewards. Monthly calls with staff provide insights and skill development, allowing participants to influence how users experience Spotify and acquire transferable skills for future opportunities.
+Additionally, top contributors in the program can expect surprises in the form of branded swag. The program utilizes a point system to recognize and reward activity and high-quality engagement. The Star Leaderboard, updated monthly, highlights participants' positions and emphasizes the importance of their contributions. While the competitive element exists, the focus is on quality rather than simply racing to accumulate points.
+Advancing through the ranks using points grants participants the opportunity to attend exclusive Star-only events. These events include virtual gatherings to celebrate values and team camaraderie, as well as the highly anticipated Annual Spotify Star Jam. Depending on the circumstances, the Jam can be either an in-person or virtual event. The top ten contributors may visit Spotify's head offices for an all-expenses-paid experience, while all Stars can participate online, with the top ten contributors receiving additional exclusive calls and meetings. These events involve dedicated workshops, team-building activities, and interactions with Spotify.
+Considering the program's foundation in music, participants also have access to Premium perks. Active and consistent contributors become eligible for the Quarterly Free Premium initiative, providing them with free Premium access. Additionally, participants can redeem their points for regular Premium subscriptions, although Family, Student, and Duo plans are not currently available for redemption.
+In summary, being a part of the Spotify Star ranks offers a range of benefits, including a close connection to Spotify, insights, skill development, branded swag, exclusive events, and Premium perks. It is a rewarding experience that recognizes and appreciates the contributions of participants in the Spotify Community.
+ 
+			}],
+			 question : What are the rewards of spotify star Program? ,
+			 id :0001,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : 4122,
+				 text : community is that here,music fans like you from all walks of life come together to share their Spotify knowledge, discuss ideas, talk music and trade answers to questions.
+ 
+			}],
+			 question : what is spotify community? ,
+			 id :0002,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : 992,
+				 text : If you encounter a 500 error code message when trying to log in to the Spotify Community, there are a few troubleshooting steps you can follow. First, check if you can log in to your Spotify account normally by opening it in an incognito window or another web browser. If you are unable to log in to your Spotify account, the issue may be related to your account, and you can refer to Spotify's troubleshooting steps for further assistance. However,
+if you can log in to Spotify successfully but still face difficulties logging in to the Community,
+it is recommended to check if your Spotify account's display name contains an emoji. If it does, simply remove the emoji from your display name,
+and you should be able to log in to the Community without any issues.
+
+				  
+			}],
+			 question : can't log into community ,
+			 id :0003,
+		},
+		{
+			 answers :[
+			{
+				 answer_start :0,
+				 text : In addition to public boards for discussions and finding solutions, the Spotify Community offers a private messaging feature that allows users to send and receive messages only visible to them. The moderator team may also use private messages to communicate with users individually. By default, this feature is disabled, but if you are 18 years or older and wish to enable it, you can follow these steps: Click on your profile name, look for the  mail  icon with an exclamation mark, click on the icon to access the Private Messenger settings, read the disclaimer and choose to accept and confirm if you agree. Once enabled, you can access your inbox by clicking on the mailbox icon to read, reply, and send private messages. If you change your mind and want to disable the feature, you can do so by accessing your Community account settings and following similar steps: Click on your profile name, go to My Settings > Personal > Private Messenger, choose to decline, and confirm your decision. 
+			}],
+			 question : Private Messanger on Spotify Community,what is it and how can i activate it? ,
+			 id :0004,
+		},
+		{
+			 answers :			{
+				 answer_start :17800 ,
+				 text : To become a Spotify Star, a recognized member of the Spotify Community, you'll need to go through an application process. The Community team will review your application and consider you as a potential candidate based on certain criteria. They will look for users who have been active members of the Community for at least three months, although this is not a strict requirement. Being familiar with how the Community works is important for becoming a superuser with advanced permissions.
+                Having helpful and engaging posts is another aspect they consider. They evaluate the quality and consistency of your contributions, such as assisting other users, providing explanations, troubleshooting, sharing helpful resources,and actively engaging in discussions with other users in the Chat section.
+                The program is currently open to individuals over the age of 18. If you're younger, you can reapply at a later time.
+                At present, the program accepts applications submitted in English, as it is the officially supported language of the Community. However, this may change in the future, and any updates will be communicated.
+               Once you submit your application, the Community team will contact you through Private Messages to inform you about the next steps. Make sure your Community PMs are enabled if you're over 18 to receive their message. 
+               Detailed instructions on how to enable Community PMs will be provided.Becoming a Spotify Star is an opportunity to contribute to the Community, help fellow users, discuss music-related topics, and assist in managing ideas. 
+			},
+			 question : What do i need to join the Spotify star programs? ,
+			 id :0005,
+		},
+		{
+			 answers :			{
+				 answer_start :19347 ,
+				 text : If you're unhappy with a post you made in the Community and wish to have it completely removed,
+				you can follow these steps. First, find the post you want to delete and locate the three-dot menu beside it. 
+				From the menu options, select  Report Inappropriate Content.  This action will redirect you to a page where you can explain the reason for your report. 
+				Clearly state that you would like your post to be deleted. Once you've provided the necessary information, click on  Notify Moderator.  
+				After completing these steps, a Community Moderator will promptly remove your post. Please remember that you can only edit or delete your own posts. 
+			},
+			 question : How can i edit our post? ,
+			 id :0006,
+		},
+		{
+			 answers :			{
+				 answer_start :19347 ,
+				 text : If you're unhappy with a post you made in the Community and wish to have it completely removed, you can follow these steps. First, find the post you want to delete and locate the three-dot menu beside it. 
+				From the menu options, select  Report Inappropriate Content.  This action will redirect you to a page where you can explain the reason for your report. Clearly state that you would like your post to be deleted. 
+				Once you've provided the necessary information, click on  Notify Moderator.  After completing these steps, a Community Moderator will promptly remove your post. Please remember that you can only edit or delete your own posts. 
+			},
+			 question : How can i remove our post? ,
+			 id :0007,
+		},{
+			 answers :			{
+				 answer_start :20582 ,
+				 text : 
+Chat is a dedicated space within Spotify where users can engage in discussions and share their love for music and podcasts. It focuses on supporting emerging artists and provides various categories for users to post and interact with each other. The six categories in Chat include Music Exchange, where users can share favorite tracks and collaborate on playlists,for deeper conversations about music and artists,Social & Random, offering music games, listening parties, and opportunities to connect with other users  .App & Features, where users can exchange tips and optimize their Spotify experience; and Podcast Discussion, dedicated to discussing noteworthy shows and creators.To ensure a positive experience for all users, there are guidelines to follow. Users should use the appropriate category when creating a new thread and keep their posts relevant to the thread's topic. Repetitive posting of the same track or playlist URI within a thread or within a 10-day period is discouraged.Commercial profit-seeking activities, such as exchanges of favors or transactional requests, are not allowed. Links to music or podcasts from channels other than Spotify should only be shared if they are unavailable on Spotify.As an artist or creator, users can share their work in the Discovery & Promo category,but it's important to provide context and details about themselves and their creations, rather than simply sharing a link. Authors of threads have a responsibility to moderate the content posted in their threads, ensuring adherence to the guidelines. If users post irrelevant or spammy content, authors can reply to them within the thread to bring them back on topic. If necessary, authors can report users who violate the guidelines to the Community Moderators for further action.By following these guidelines and utilizing Chat appropriately, users can contribute to meaningful discussions, promote emerging artists, and have a rewarding experience within the Spotify Community.
+. 
+			},
+			 question : Chat guidelines? ,
+			 id :0008,
+		}
+		,{
+			 answers :			{
+				 answer_start : 22934,
+				 text : The Idea Exchange within the Spotify Community is a highly active and dynamic space where users can share their ideas and engage in discussions. Many users often have questions about how the Ideas Exchange works and its impact on Spotify's decision-making process.To address these inquiries, the Community team collaborates with various teams at Spotify HQ on a regular basis, specifically focusing on ideas that have garnered significant votes.Ideas that receive more than 50 votes within a span of 3 months are recognized as  Good Suggestions,  indicating their initial viability. Similarly, ideas that amass 180 votes within 6 months are labeled as  Live Ideas  and are brought to the attention of the Spotify team.Moreover, ideas that initially lacked sufficient votes but manage to reach 500 votes within 18 months are also considered for further evaluation.For ideas that progress to the next stage, there are two potential outcomes. If an idea is  Implemented, it means that the proposed feature or enhancement has been successfully developed and integrated into the Spotify platform. On the other hand, if an idea is marked as  Case Closed,  it signifies that it has been discussed internally but is not currently part of Spotify's immediate timeline.However, this doesn't rule out the possibility of revisiting and implementing the idea in the future.While votes play a crucial role in determining the popularity and support for an idea, they are not the sole determining factor in Spotify's decision-making process. The company also takes into account various other aspects, including their commitment to supporting artists, data analysis and insights, research testing, feedback from the Community and other support channels, and alignment with their overall short- and long-term business strategy.Furthermore, even if Spotify introduces a feature or improvement that originated independently of the Community, they make it a point to acknowledge the corresponding idea within the Community, regardless of its vote count, and provide an announcement.Overall, the Idea Exchange serves as a valuable platform for users to contribute their ideas, and Spotify considers a range of factors alongside votes to shape their future developments and enhancements.
+ 
+			},
+			 question : Idea Exchange Guidelines: Why was my idea closed? ,
+			 id :0009,
+		}
+		,{
+			 answers :			{
+				 answer_start :25198 ,
+				 text : To submit your idea, start by searching for existing ideas in the Idea Exchange to ensure your suggestion hasn't been posted before.If you don't find any similar ideas, proceed to submit your own. Enter a subject for your idea and click on  Check Title  to review if any similar ideas have been posted. If none match your suggestion, scroll down to the bottom of the page and click on  Continue and Post  to submit your idea. 
+			},
+			 question : Idea Exchange Guidelines: How can I submit an idea? What happens next? ,
+			 id :0010,
+		}
+		,{
+			 answers :			{
+				 answer_start :25624 ,
+				 text : To ensure an optimal Chat experience for everyone, it's important to follow a few guidelines. Firstly, 
+				when creating a new thread, make sure to choose 
+				the appropriate category that aligns with the topic of your post.
+				This helps keep the discussions organized and relevant. Secondly, 
+				it's essential to keep your posts on-topic and related to the thread's subject matter.
+               To maintain a diverse and engaging environment, refrain from posting the same track or playlist URI multiple times within the same thread or more than once within a 10-day period in Chat. This prevents repetitive content and encourages variety in the discussions. Additionally, avoid posting anything that aims to generate commercial profit, such as requests for rewards, transactions, or exchanges of favors. Chat is intended for community interaction and sharing, rather than commercial activities.
+               When sharing links to music or podcasts, it's encouraged to use Spotify whenever possible. However, if the content you wish to share is not available on Spotify, you may post links from other channels. The focus is to facilitate discussions and introduce users to new and interesting content.
+                By adhering to these guidelines, users can contribute to a positive and engaging Chat experience, fostering meaningful discussions and promoting a sense of community within the Spotify platform. 
+			},
+			 question : What are the six catagorys within the chat? ,
+			 id :0011,
+		}
+		},
+		{
+			 answers :			{
+				 answer_start :995 ,
+				 text : 
+
+If you encounter difficulties while trying to post something in the Spotify Community, there are several steps you can take to troubleshoot the issue. 
+First, ensure that you are logged into the Community using the login details of your Spotify account. If you are a new user, verify that your Community 
+account's email address has been confirmed. You can also try posting from an incognito or private window in your browser or attempt to post using a different browser altogether. 
+If you are experiencing issues when submitting a new idea, make sure to add a label from the right side column as instructed in the FAQ for more information.
+In case you receive any error messages while attempting to post, it is recommended to search the Community for similar resolved threads that may provide solutions. 
+If none of these steps resolve the problem, you can start a new thread in the Help Boards, selecting the appropriate board for the platform you are using. 
+It is advisable to include a screenshot of the error message while ensuring that no sensitive or private information is displayed. 
+This will assist the Community team in better understanding and addressing the issue you are facing. 
+			},
+			 question : Iam having troubles posting in community ,What to do? ,
+			 id :0012,
+		}
+		},
+				{
+			 answers :			{
+				 answer_start :25907 ,
+				 text : 
+
+To navigate the Community, users can access different areas through the sidebar menu. By clicking or tapping the menu icon,they can select a specific area and explore its boards or content. The sidebar allows easy access to different sections and their respective boards.
+ 
+			},
+			 question : How can i navigate arround spotify community? ,
+			 id :0013,
+		}
+		
+		,
+				{
+			 answers :			{
+				 answer_start :995 ,
+				 text : 
+
+If you encounter difficulties while trying to post something in the Spotify Community, there are several steps you can take to troubleshoot the issue. 
+First, ensure that you are logged into the Community using the login details of your Spotify account. If you are a new user, verify that your Community 
+account's email address has been confirmed. You can also try posting from an incognito or private window in your browser or attempt to post using a different browser altogether. 
+If you are experiencing issues when submitting a new idea, make sure to add a label from the right side column as instructed in the FAQ for more information.
+In case you receive any error messages while attempting to post, it is recommended to search the Community for similar resolved threads that may provide solutions. 
+If none of these steps resolve the problem, you can start a new thread in the Help Boards, selecting the appropriate board for the platform you are using. 
+It is advisable to include a screenshot of the error message while ensuring that no sensitive or private information is displayed. 
+This will assist the Community team in better understanding and addressing the issue you are facing. 
+			},
+			 question : Iam having troubles posting in community ,What to do? ,
+			 id :0014,
+		},
+				{
+			 answers :			{
+				 answer_start :26178 ,
+				 text : 
+The provided instructions explain how to change your username on a Community page. By tapping the gear icon,you can access the Community settings and view your current username.To change it, remove the existing username and enter your preferred one in the username field.Clicking  CHANGE USERNAME  will initiate the change. It is important to note that if your preferred username is already taken,you will need to edit it before proceeding. 
+			},
+			 question : How do i change my community username? ,
+			 id :0015,
+		}
+		
+		
+	{
+			 answers :			{
+				 answer_start :26623 ,
+				 text : 
+				 To update your avatar or profile picture in the Spotify Community,you can select from the available options once you reach a specific rank.Visit the designated page to choose your preferred picture. However, it's important to note that uploading your own profile picture is currently a perk reserved for Spotify Stars. For more information on the Spotify Stars Program and how to join, refer to the program's dedicated page. If you wish to change your profile picture in the Spotify app itself, 	follow the provided steps instead.
+				 	},
+			 question : How do i change my community username? ,
+			 id :0016,
+		},
+			{
+			 answers :			{
+				 answer_start : ,
+				 text : 
+
+If you're reading this, you're probably here after looking at an Ongoing Issue and wondering what its status means.This is automatic status given when a thread has been just moved to the Ongoing Issues board. We'll be updating this thread to a more appropriate status, so check back soon!
+New Issue Report is automatic status given when a thread has been just moved to the Ongoing Issues board. We'll be updating this thread to a more appropriate status, so check back soon!
+An Ongoing Issue has this status Need more info while we gather votes and relevant details from users. These are very helpful to us: votes help us understand how many users are roughly affected, and details are valuable for the teams to better reproduce and pinpoint what's happening.
+Make sure to leave yours if you're experiencing the same issue!Once we've gathered the relevant details and a minimum of votes, we report this with the teams backstage.
+
+Under investigation is the status we'll give whenever an issue has been reported to the right teams. Our moderator team monitors and passes along any helpful info to them, so keep them coming!
+If your issue has this status, we recommend you subscribe to it by clicking the three dot menu of the original post. This will ensure that you get notifications for any updates.
+
+Fixed status means Great news! We've heard back and confirmed this issue has been resolved. If you don't see any changes right away, follow the steps in the Status Update.
+suppose If you're experiencing a similar issue and come across an older Fixed thread, we recommend you start a new Help board thread instead. This way, our Community can help you resolve this newer issue faster. Don't forget to add all relevant details and troubleshooting you've tried!
+
+We give this status to issues that have been flagged with our tech teams but we don't have a timeline on when this will be resolved. Keep the app updated so you won't miss out when this happens!
+We'll be also sharing any updates from the teams as we get them, so don't forget to subscribe!
+
+. 
+			},
+			 question : How do different Ongoing issues  status means? ,
+			 id :0017,
+		}
+
+
+
+,
+{
+			 answers :			{
+				 answer_start : ,
+				 text : Spotify community is that here,music fans like you from all walks of life come together to share their Spotify knowledge,
+				 discuss ideas, talk music and trade answers to questions.
+
+
+. 
+			},
+			 question : what is spotify community? ,
+			 id :0018,
+		},
+		{
+			 answers :			{
+				 answer_start : ,
+				 text : 
+A good starting point is a brief description of your current experience with the app. Once you covered the functionality of the app as it is right now, you can move on to explaining what exactly it is you would like to change. 
+
+ 
+
+Avoid writing  make this feature better  as that could mean different things to different people, and instead try describing a specific improvement you’d like to see implemented and which section (Your Library, Home, Browse, artist pages, etc.) or platform (mobile, desktop, web player, speaker, etc.) this would affect.
+
+ 
+
+It can also be helpful to add screenshots or link to a related idea and explain in what way your idea is different.
+
+ 
+
+
+. 
+			},
+			 question : How do I make sure my idea is clear enough?
+ ,
+			 id :0019,
+		},
+		{
+			 answers :			{
+				 answer_start : ,
+				 text : You can check this by having a quick search in the Community here. If you find a similar idea, make sure to add your vote!
+                 Tip: Try using keywords when searching for ideas. For example, if you have an idea around 'making it possible to play Spotify on multiple speakers at the same time, from one account' enter just a few keywords, like “multiple speakers account .
+
+ 
+. 
+			},
+			 question : How do I know if the idea already exists?? ,
+			 id :0020,
+		},
+		{
+			 answers :			{
+				 answer_start : ,
+				 text : That's called a ranking system. These systems exist because everyone can quickly get some idea of who this forum user is by their progression in the system.
+                Someone could be a brand new forum user or a more experienced user.
+                By seeing the rank title they have, the idea is that you'll be able to tell this yourself.
+               In the Spotify Community, the first rank is Visitor. Community users can rank up to Composer, which is the highest rank they can achieve unless they join the Stars Program.
+               Each rank comes with forum perks - but we'll leave you to discover these on your Community journey 😉
+
+
+. 
+			},
+			 question : what is rank? ,
+			 id :0021,
+		}
+,
+	{
+			 answers :			{
+				 answer_start : ,
+				 text : The Spotify app offers compatibility with accessibility settings on various devices, allowing users to enhance their Spotify experience based on their individual needs. Whether you're using iOS or Android, you can customize the app's accessibility settings to suit your preferences.
+For iOS users, the Spotify app provides options such as mono audio, which plays the same audio through both left and right speakers, creating a balanced sound experience. Normalize volume ensures that songs are played at consistent levels, preventing sudden volume changes between tracks. The volume level can be adjusted according to your environment, allowing you to set the optimal sound level. If you find the short, looping visuals on tracks distracting, you can easily turn off the Canvas feature.
+Additionally, certain Spotify Originals podcasts have auto-generated transcripts available as part of a limited beta test. Users can enable VoiceOver, which provides audible descriptions of on-screen elements, and adjust the motion settings to reduce or stop the movement of certain elements. Those with Bluetooth wireless Braille displays can connect them to their device for reading VoiceOver output.
+. 
+			},
+			 question : Common Spotify in-app settings for iOS and Android: ,
+			 id :0022,
+		}
+,
+	{
+			 answers :			{
+				 answer_start : ,
+				 text : Spotify offers a range of accessibility settings for iOS devices, including VoiceOver, which provides audible descriptions of the screen content. The Motion setting allows users to reduce or stop the movement of certain screen elements. By connecting a Bluetooth wireless Braille display, users can read the output of VoiceOver through touch. The Zoom feature enables users to zoom in or out on specific items, while the Speak screen option allows them to hear the entire screen without VoiceOver turned on. Users can also adjust the text size using the Font Size slider in the Large Text Size setting. Smart Invert Colors reverses the display colors, except for images, media, and some dark-themed apps. Voice control allows users to control their iPhone using only their voice. The Mono Audio setting combines the left and right audio channels to play the same content. The Balance setting enables users to adjust the volume balance between the left and right speakers or headphones. Phone noise cancellation uses air pressure to reduce ambient background noise during phone calls in noisy environments. Additionally, the Spotify app is compatible with Siri voice commands.
+
+. 
+			},
+			 question : Spotify in-app settings for iOS ? ,
+			 id :0023,
+		}
+,
+	{
+			 answers :{
+				 answer_start : ,
+				 text : For users on Android devices, Spotify offers similar accessibility settings, such as mono audio, balance adjustment between left and right speakers or headphones, 
+				 and phone noise cancellation to reduce background noise during phone calls in noisy environments. 
+				 The TalkBack screen reader enables touch and spoken feedback for interacting with the device, providing descriptions of actions, alerts, and notifications. 
+				 Android users can also utilize features like high contrast text, color inversion, color correction, magnification, font size adjustment, screen zoom, and support for Braille displays. 
+			},
+			 question : Spotify in-app settings for  Android? ,
+			 id :0024,
+		}
+
+,{
+			 answers :{
+				 answer_start : ,
+				 text : Starting from January 15th, 2022, Spotify will no longer support application versions released before 2017. Users who were still using these older versions will need to upgrade to the latest version in order to continue accessing their accounts. This change applies to Spotify on Android, iOS, and desktop platforms. The decision to stop supporting these older versions was made due to missing features and an outdated interface. Affected users will receive an email from Spotify regarding this change. To continue using Spotify, it is recommended to update to the latest version of the app or utilize the Spotify Web Player on a supported web browser. 
+			},
+			 question : What is the deadline for Spotify users to upgrade to the latest version of the app if they are using versions released before 2017? ,
+			 id :0025,
+		}
+,{
+			 answers :{
+				 answer_start : ,
+				 text : Spotify provides lyrics through various third-party services, and the specific service may vary depending on your region. To find the provider of lyrics, you can usually check the bottom of the Lyrics tab in the Spotify app. If you encounter any issues with the content of the lyrics or if they are out of sync with the song, it is advisable to contact the lyrics' provider directly to report the problem. It's important to note that lyrics will only be displayed in the language that the song is sung in and cannot be translated within the Spotify app. 
+			},
+			 question : Issues with the content of lyrics ? ,
+			 id :0026,
+		}
+,{
+			 answers :{
+				 answer_start : ,
+				 text : If you encounter an issue with the Spotify app and suspect that other users might be experiencing the same problem, you can visit the Ongoing Issues board. This board serves as a hub for reports of specific app issues and allows users to stay informed and updated about each issue. To access the Ongoing Issues board, open the Community menu by clicking on the icon in the top-right corner of the Spotify interface. From there, select  Help  and then choose  Ongoing issues  among the top Help topics. Once you're on the Ongoing Issues board, you can use the search bar to look for your specific issue by typing relevant keywords. The search results will generate a list of existing topics related to the problem you're facing.. 
+			},
+			 question : I can't see lyrics? ,
+			 id :0027,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : Spotify is in the process of rolling out lyrics to all users, so it's possible that you haven't received this feature yet but can expect it in the near future. If you have previously had lyrics on your account, there are a few steps you can take to check if lyrics are available for specific tracks. Firstly, make sure you are not in Offline Mode. Next, try accessing the lyrics for songs in a testing playlist that Spotify has created. If you can view the lyrics for some tracks, it means that the track you're currently listening to may not have lyrics available. However, if you can't see lyrics for any of the tracks, you can try basic troubleshooting steps such as ensuring your Spotify app is updated to version 8.5.56 or higher, logging out and back into the app multiple times (while fully quitting the app each time), or performing a thorough reinstallation of the app. 
+			},
+
+
+			ChatGPT
+
+			 question : Search for your issue? ,
+			 id :0028,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : To report an issue on Spotify, you can start a topic by following these steps. First, select a help category that best fits the nature of your issue. Then, click on  START A TOPIC.  Choose a clear and concise title that accurately describes the problem you are facing. In the Body section, provide a detailed description of the issue, including any relevant information such as screenshots if applicable. It is crucial to include essential details such as the device you are using, the operating system of your device, the version of the Spotify app, and clear steps to reproduce the problem. Providing these necessary details will help others understand and address your issue effectively.
+ 
+			},
+			 question : Still can't find issue? ,
+			 id :0029,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : To report an issue on Spotify, you can start a topic by following these steps. First, select a help category that best fits the nature of your issue. Then, click on  START A TOPIC.  Choose a clear and concise title that accurately describes the problem you are facing. In the Body section, provide a detailed description of the issue, including any relevant information such as screenshots if applicable. It is crucial to include essential details such as the device you are using, the operating system of your device, the version of the Spotify app, and clear steps to reproduce the problem. Providing these necessary details will help others understand and address your issue effectively.
+ 
+			},
+			 question : Still can't find issue? ,
+			 id :0030,
+		}
+        
+                    {    
+             context :  Mistborn is a series of epic fantasy novels written by American author Brandon Sanderson. ,
+             id :  00001 ,
+             is_impossible : False,
+             question :  Who is the author of the Mistborn series? ,
+             answers : [
+                {
+                     text :  Brandon Sanderson ,
+                     answer_start : 71,
+                }
+            ],
+        },
+           {
+			 answers :[
+			{
+				 answer_start : ,
+				 text : Uninstalling and reinstalling the application generally fixes most  issues with skipping, followed by turning your device off and on. 
+			}],
+			 question : Why is my Spotify skipping? ,
+			 id :0001,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : Uninstall and reinstall the most current version of Spotify.Sign Out Everywhere and Remove Offline devices from your Spotify account page  
+			}],
+			 question : How can you fix skipping issues in Spotify on an iOS device? ,
+			 id :0002,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple
+				       Watch 
+			}],
+			 question : How can you fix skipping issues in Spotify on an Apple Watch? ,
+			 id :0003,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : Solution 1: test other playback devices by opening CMD, executing control mmsys.cpl sounds command,and setting a device as default
+					Solution 2: Refresh the desktop app installation by closing Spotify, uninstalling it, deleting any Spotify folders in  %AppData% , restarting your
+					computer, and reinstalling Spotify
+					Solution 3: reinstalled their audio desktop driver to solve the playback issue. Find your computer software instructions for reinstalling your audio driver. 
+			}],
+			 question : How can you fix skipping issues in Spotify on a desktop windows? ,
+			 id :0004,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : Unpair the phone and radio,Re-pair your Bluetooth to your car,Deny sharing contacts, messages, and turning off hands free calling 
+			}],
+			 question : How can you fix skipping issues in Spotify on a Bluetooth & car audio? ,
+			 id :0005,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : you can report the issue following Spotify's support article 
+			}],
+			 question : What is the recommended approach for reporting skipping issues with a specific album or content on Spotify? ,
+			 id :0006,
+		},
+		{
+			 answers :[
+			{
+				 answer_start : ,
+				 text : With the Spotify lock screen widget, you can easily navigate straight into the app whenever you want at a glance.The Spotify lock screen widget is available
+				        globally to Free and Premium users running iOS 16 or later on iPhone devices.
+					1- Touch and hold the Lock Screen until the Customize button appears, then tap Customize.
+					2- Select Lock Screen.
+					3- Tap Add Widgets.
+					4- Search for the Spotify app in the supported listed apps, then tap on Spotify.
+					5- Drag or Tap the widget to add to the Lock Screen.
+					6- When you're finished, hit the close button, then tap Done. 
+			}],
+			 question : How do I add a Spotify widget to my iPhone (iOS) Lock Screen? ,
+			 id :0007
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : 1- Open the Spotify app like you normally would by tapping on the app icon from your Home Screen.
+					2- After opening the app, the Spotify widget should show up on your Lock Screen again. 
+		
+			}],
+			 question : How to get the Spotify widget to show up again on your Lock Screen if it's missing after an app update ,
+			 id :0008
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : 1 – Open the Spotify app on iOS.
+					2 – Click on Settings in the top-right.
+					3 - Scroll down to the Local Files option and select it.
+					4 – Switch Show audio files from this device on.
+					Note: A pop-up will ask permission to access your local network. Accept this permission to enable Local Files transfer between desktop and mobile.
+					5 – Now, go back to Your Library and you should now see a new folder added Local Files
+					6 – Follow the steps below to transfer your audio files according to your device: 
+					6.1 – macOS: 
+					Connect your iPhone to the Mac with a cable. 
+					Open Finder on the Mac, find the Locations section in the sidebar and select your phone.
+					Drag and drop the tracks. 
+					Note: Make sure the option “Manually manage music, movies, and TV shows” is turned on. You can access this option in your device sync settings within Finder,
+					under the General section.
+					6.2 – Windows: 
+					Install iTunes and connect iPhone to the computer.
+					Open iTunes, then select your phone from the pop-up in the sidebar and click Music.
+					Drag and drop the tracks. 
+					Note: Make sure the option “Manually manage music, movies, and TV shows” is turned on. You can access this option on iTunes in your device sync settings, under
+					the Options section.
+					7 – Go back to Your Library and click on Local Files, you should now see all available tracks in this folder.
+					Local File Discovery is available worldwide on Android and iOS, for Premium and Free users.
+			}],
+			 question : Local File Discovery iOS 
+			 id :0009		
+		},
+		{
+			 answers :[
+			{
+				 answer_start :
+				 text : Spotify Stations is an application that has been beta testing since March 2018. It has helped Spotify shape listening experiences for the future, but now it's
+					time to shut down the app.Spotify Stations is going to be deprecated for mobile applications (iOS and Android) and the web player on May 16th. This change will
+					affect all Stations users in the countries where it was available (the United States and Australia).Users will receive an email to let them know about the app
+					sunsetting.Following that email,there will be instructions on how to move stations over to the Spotify app to easily continue enjoying music. 
+			}],
+			 question : What happened to Spotify Stations? ,
+			 id :0010	
+		},
+		{
+			 answers :[
+			{
+				 answer_start :
+				 text : All users from countries where Spotify Stations was made available will be affected. They will no longer be able to access either Spotify Stations mobile
+					application or web player. 
+			}],
+			 question : Who will be affected by the spotify stations change? ,
+			 id :0011
+		},
+		{
+			 answers :[
+			{
+				 answer_start :
+				 text : Spotify Stations will be deprecated on May 16th, 2022. 
+			}],
+			 question : When will Spotify Stations be shut down? ,
+			 id :0012
+		},
+		{
+			 answers :[
+			{
+				 answer_start :
+				 text : Spotify is releasing a transferring tool that allows you to migrate your favorite stations to Your Library on the Spotify application and easily continue
+					listening to your favorite music. 
+			}],
+			 question : What will happen to my favorite stations? ,
+			 id :0013
+		},
+		{
+			 answers :[
+			{
+				 answer_start :
+				 text : Spotify Radio is a perfect tool to get access to a big collection of songs based on any artist, album, playlist, or song. It's similar to Spotify Stations,
+					where you can enjoy the experience of creating and listening to different radio stations on Spotify. 
+			}],
+			 question : What is Spotify Radio and how does it work? ,
+			 id :0014
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : By default, anyone who follows you on Spotify can see what you’re listening to with the Friend Activity feature.If you don’t want others to know what you’re
+					listening to, you can start a Private Session.  
+			}],
+			 question : What is Private Session and how does it affect my recommendations? ,
+			 id :0015
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : Tap Home.
+					Tap Settings
+					Under Social, turn Private Session on 
+					To end a Private Session and continue sharing your listening activity, repeat the steps and switch it off. 
+			}],
+			 question : How to switch Private Session on/off in mobile and tablet? ,
+			 id :0016
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : When Private Session is on, any songs that are listened to won't be used to personalize playlists Made For You.In general, if you find that the recommendations
+					that you're getting don't match your taste, it's best to try and avoid using Private Sessions so that our recommendation algorithms can get to know you better.
+					Alternatively, you can also make use of Private Sessions to specifically avoid certain listening activity from being taken into account.
+			}],
+			 question : How does private session affect my recommendations? ,
+			 id :0017
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : Yes! If you don't want to share your listening activity at all or show your recently played artists, you can turn it off in the app Settings under Social
+			}],
+			 question : I don't want to activate Private Sessions every time. Is there a way to permanently hide what I'm listening? ,
+			 id :0018
+		},
+		{
+			 answers :[
+			{
+				 answer_start :,
+				 text : Yes! You can choose which playlists are shown on your profile.To go even further, using our mobile app (this setting is not available on desktop) it's also
+					possible to make a playlist completely private in order to hide it from search and prevent anyone but the owner from accessing it.
+					Open the playlist in question.
+					Tap on the three dots menu.
+					Select Make private.
+					Confirm your choice. 
+			}],
+			 question : Can I make my personal playlists private? ,
+			 id :0019
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text :  
+			}],
+			 question : What is Automix? ,
+			 id :0020
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1. Head to 'Home > Settings > Playback' in the Spotify app.
+					2. Toggle 'Automix' to enable or disable this feature. 
+			}],
+			 question : How do I enable/disable Automix on iOS or android? ,
+			 id :0021
+		
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1. Click on your profile name and choose for Settings.
+					2. Click 'Show advanced settings'.
+					3. Under Playback, toggle: 'Automix - Enable smooth transitions between songs in a playlist'. 
+			}],
+			 question : How do I enable/disable Automix on desktop devices? ,
+			 id :0022
+		},
+		{
+				 answer_start :,
+				 text : Blend is a shared playlist where you can see how your taste matches up with the taste of a friend. 
+			}],
+			 question : What are Blend playlists? ,
+			 id :0023
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Just open up the Spotify app on your mobile device, head to Search select the Made for You hub and follow these simple steps: 
+					To create the shared experience, tap 'Create a Blend'
+					Tap 'Invite' and choose a way to share the invitation with a friend
+					The recipient will then receive a message with the invite
+					Tap 'Spotify' from the sent invite
+					Click 'Join' to create the Blend 
+			}],
+			 question : How can I invite someone to a Blend? ,
+			 id :0024
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : You should see the 10 most recently created Blends on the Made For Two shelf within your Made For You hub. Blends are auto-added to the other persons’ libraries
+					as well. 
+			}],
+			 question : Where can I find all my Blend playlists? ,
+			 id :0025
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : You can leave a Blend at anytime by opening the Blend playlist you'd like to leave, tapping the three dots (...) and then choose 'Leave Blend'. You and the
+					other person won't be able to see the Blend anymore.  
+			}],
+			 question : Can I leave a Blend? ,
+			 id :0026
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Creating a Blend is only available on mobile.  
+			}],
+			 question : I’m not seeing blend when I open on desktop? ,
+			 id :0027
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Make sure that your browser app and Spotify app is up to date and then try again. 
+			}],
+			 question : When I click on a Blend invitation link, Spotify opens up but then nothing happens? ,
+			 id :0028
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : You can see the lyrics of a track from the Now Playing View and they're available in select tracks 
+			}],
+			 question : How can I see lyrics for my songs? ,
+			 id :0029
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Local files are files that aren't hosted by Spotify but can be imported to Spotify from your own devices. You can then add them to playlists and enjoy them
+					locally on the device they're stored on. 
+			}],
+			 question : What are local files in Spotify and how can they be used within the
+				   app? 
+			 id :0030
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1. Open your Home tab 
+					2. Go to Settings 
+					3. Scroll down and toggle  Show local audio files  to on.This will let Spotify continuously monitor device's folders to detect playable audio and add them to
+					Your Library.
+					4.Open your library and tap on local files to see all detected files.
+					You can now continue to add them to playlists or just listen to them from your library. 
+			}],
+			 question : How to import local files to spotify in mobile ,
+			 id :0031
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1. Click on the down arrow in the top right of the app and select Settings.
+					2. Turn Show Local Files on.
+					3. You can turn off any of the default local file sources or click on Add Source to add a custom folder where you have music stored.
+					The music files of these folders will be imported into Spotify and you will be able to find them in the Playlist section of Your Library.From there you can add
+					them to playlists or play them directly. 
+			}],
+			 question : How to import local files to spotify in desktop ,
+			 id :0032
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Files or downloads from illegal sources are not permitted. If your files have not been obtained from an official source, this is most likely why they are not
+					playing. 
+			}],
+			 question : Local File not playing? ,
+			 id :0033
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : The two apps can be connected so that you can get some extra benefits if using them together.In the Shazam app, go to Settings (available from My Music) and tap
+					Connect. You'll need to authorize Spotify access to Shazam 
+			}],
+			 question : Can I connect Shazam to Spotify and how do I do that? ,
+			 id :0034
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Once connected, toggle the Sync Shazams to Spotify option in the Shazam Settings. A playlist labeled My Shazam Tracks will be created in Spotify and all your
+					subsequent Shazamed content will be automatically added 
+			}],
+			 question : How do I automatically add my shazamed tracks to a Spotify playlist? ,
+			 id :0035
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Tapping the Spotify Open button on any song in Shazam will open a search in Spotify and show you all the versions of that song. From there you can add the
+					version of your choice to any Spotify playlist. 
+			}],
+			 question : How do I add my Shazamed songs to other Spotify playlists? ,
+			 id :0036
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : The Connect option in the Shazam Settings will only be displayed in countries where Spotify is available. If you can't see the Spotify option on song pages in
+					Shazam, go to Shazam Settings and make sure you’re connected.If you're having problems opening or syncing to Spotify, try disconnecting Spotify in Shazam
+					Settings, restart both apps and then reconnect. 
+			}],
+			 question : Why can’t I connect Spotify to Shazam? / Why is there only Apple Music showing and not Spotify? ,
+			 id :0037
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : A playlist may fail to be created due to connection issues. Next time you Shazam a track we'll try and create the playlist again, and will add your latest
+					Shazamed contents. 
+			}],
+			 question : Why wasn’t a 'My Shazam Tracks' playlist created when I turned on Sync? ,
+			 id :0038
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : There may've been a connection issue. When you next shazam a song, the playlist should update with your latest Shazams. If the issue persists, try the following
+					steps:
+					Make sure you're on the latest version of Shazam and Spotify
+					Disconnect from Spotify in Shazam Settings
+					Restart both apps
+					Reconnect to Spotify
+					Turn Sync Shazams to Spotify back on 
+			}],
+			 question : Why wasn’t my latest shazamed track added to the 'My Shazam Tracks' playlist? ,
+			 id :0039
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : If you delete your existing My Shazam Tracks playlists and then shazam a new track while connected to Spotify, a new playlist will be created. This overwrites
+					the previous one and previous Shazams won't be re-added. As such, we advise not to delete your existing My Shazam Tracks playlist, unless you want to move the
+					existing tracks to other playlists and have already done so. 
+			}],
+			 question : I removed the  My Shazam Tracks  playlist. How can I get the tracks back? ,
+			 id :0040
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : If the My Shazam Tracks playlist is renamed while Sync Shazams to Spotify is turned on, a new My Shazam Tracks playlist will be created on your next Shazam. Any
+					Shazams from that point onwards will be added to this newly created playlist. 
+			}],
+			 question : What happens when I rename the My Shazam Tracks playlist in Spotify? ,
+			 id :0041
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Following version 14.2 of Shazam, the Add To button has been removed, however the Open button has been improved with a more reliable search in Spotify. This
+					means you can now add the song version of choice to any playlist in Spotify. Alternatively, if you want your new Shazams to be automatically added to a My
+					Shazam Tracks playlist in Spotify, there's the Sync Shazams to Spotify feature, which can be activated in Settings. 
+			}],
+			 question : Where is the Add To button in Shazam? ,
+			 id :0042
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Past Shazams will no longer sync to Spotify as part of the Sync Shazams to Spotify feature, however the syncing overall has been improved so you shouldn't have
+					any issues to find and add more of your future Shazams to the My Shazam Tracks playlist. 
+			}],
+			 question : Why are my past Shazams no longer syncing? ,
+			 id :0043
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : So far, Shazam has introduced the new features and improved syncing only on the iOS version of the app. If you're having issues syncing Shazam with Spotify on
+					Android, consider checking out other song-discovery apps with Android integrations, such as Soundhound or the built-in Google Assistant. 
+			}],
+			 question : What about Shazam on Android? ,
+			 id :0044
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1.Open the app.
+					2.Click the three-dot menu in the top left-hand corner.
+					3.Click on Help > About Spotify.
+					4.A new window will open with the version number beneath the Spotify logo.  
+			}],
+			 question : How can I check which version of the app I'm running in desktop windows? ,
+			 id :0045
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1.Open the app.
+					2.Click at Spotify tab in the top left-hand corner.
+					3.Click on About Spotify.
+					4.A new window will open with the version number beneath the Spotify logo. 
+			}],
+			 question : How can I check which version of the app I'm running in desktop Mac? ,
+			 id :0046
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1.Open the app.
+					2.From the Home tab, tap the cog wheel in the top right-hand corner to open Settings.
+					3.Tap on about About. You'll find the version number next to Version. 
+			}],
+			 question : How can I check which version of the app I'm running in iPhone and iPad? ,
+			 id :0047
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : 1.Open the app.
+					2.From the Home tab, tap the cog wheel in the top right-hand corner to open Settings.
+					3.Scroll to the bottom. You'll find the version number under About > Version. 
+			}],
+			 question : How can I check which version of the app I'm running in android? ,
+			 id :0048
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Soundtrap is a digital audio workstation (DAW). It’s easily accessible on your browser from a variety of devices, such as Windows, Mac, Chromebook, Linux,
+					smartphones, and tablets. 
+			}],
+			 question : What is Soundtrap? ,
+			 id :0049
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : With Music Makers, you can create beats, experiment with a wide range of loops, effects and instruments, collaborate with your co-artists and ultimately produce
+					your own music. 
+			}],
+			 question : What are some key features of Soundtrap for music makers? ,
+			 id :0050
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Soundtrap for Storytellers is mainly appealing for podcasters. With the Interactive Transcript feature, you can record and automatically transcribe your voice.
+					Edit your transcript like how you edit a document, invite a non-Soundtrap user as your guest and directly upload your podcast to Spotify. 
+			}],
+			 question : What are some key features of Soundtrap for Storytellers? ,
+			 id :0051
+		},
+		{
+			 answers :[{
+				 answer_start :,
+				 text : Soundtrap for Education encourages students and teachers to explore creative sound making in all aspects, for all ages and ability levels. Guaranteed COPPA,
+					GDPR and FERPA compliant, students of all ages can play in a safe and secure environment. 
+			}],
+			 question : What are some key features of Soundtrap for education? ,
+			 id :0052
+		}
+
+
+        ,{
+			 answers :{
+				 answer_start : ,
+				 text : To edit a playlist on both Android and iOS devices, you can follow these steps: Tap on the three dots at the top of the playlist. From the options that appear, select  Edit playlist.  This will take you to a page where you can modify the playlist's name, songs, description, and cover. If you need further assistance, you can search for more Spotify Answers or ask the Community in a new thread. 		},
+			 question : how can i change the name of my playlist on mobile? ,
+			 id :0031,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : To share a song or album, you can follow these steps. First, click the three dots next to the song or album you want to share. Then, from the menu that appears, select the 'Share' option. This will bring up a submenu with multiple sharing options. You can choose to share through various social media platforms, use a Spotify Code, or copy the Song Link, Embed Code, or Spotify URI. The steps for sharing on mobile devices are quite similar. Simply tap the three dots next to the song or album, and then tap 'Share' to access the sharing options. 
+ 
+			},
+			 question : Hoe can i share songs with my friends? ,
+			 id :0032,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : To access your listening history on Spotify, follow these steps:
+On desktop, click on the Queue icon located at the bottom right. Then select  Recently played  at the top to view a list of the last 50 tracks you've listened to on that device. You can also find recently played albums and playlists on the Home page.
+On the mobile app, go to the Home page and select the Listening history icon to see a list of recently played albums, playlists, and tracks.
+For a more detailed listening history, you can consider scrobbling with Last.fm.
+Additionally, Spotify allows you to download a copy of your personal data, which includes your streaming history for the last year or the lifetime of your account. This data includes track information as well as timestamps for when and how you streamed content.
+I hope this helps! Let me know if you have any further questions. 
+ 
+			},
+			 question : How can i look at my listening history in my desktop? ,
+			 id :0033,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : Spotify doesn't recommend downloading old versions of the app.
+                        To ensure using Spotify safely, always download from our official sources: 
+						the website, and the relevant app stores.  
+			},
+			 question : Where can i download previous version of spotify? ,
+			 id :0034,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : Here's a workaround that is not an official solution: try adjusting the volume on Spotify to the maximum level and control the volume through your computer's speaker volume. This way, the ads should have the same volume as your music. You can still modify the volume of your songs using your computer instead of the volume bar on Spotify. On the mobile app, go to the Home page and select the Listening history icon to see a list of your recently played albums, playlists, and tracks. For a more detailed listening history, you can learn how to scrobble with Last.fm. Additionally, you have the option to download a copy of your personal data, which includes your streaming history for the last year or the entire lifetime of your account, including track information and details of your streaming activity. 
+ 
+			},
+			 question : Why are video ads so loud? ,
+			 id :0035,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : A Spotify URI (Uniform Resource Indicator) is a direct link to a track, album, or artist profile on Spotify. It can be found in the Share menu of any item on Spotify. When you click a Spotify URI link, it opens the Spotify application directly, bypassing the need to go through a web page. To obtain a Spotify URI, you can go to the three dots, open the Share menu, and while holding down the modifier key (Alt/Ctrl), select  Copy Spotify URI.  
+ 
+			},
+			 question : How do i find my friends on Spotify? ,
+			 id :0036,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : In response to numerous requests from the community, many people have expressed their desire for specific tracks, albums, or artists to be added to Spotify. While Spotify aims to make all the world's music available, the availability of songs is dependent on obtaining permissions from the rights holders. Nevertheless, Spotify continues to add new music every week, and it is hopeful that the desired choices will be included in the future.
+If you are unable to find a particular item in your library, there are a few things you can check. On mobile, ensure that you have not accidentally hidden anything with a filter by pulling down the screen to view your filters. If that is not the case, it's possible that you have the item saved on a different Spotify account. In such cases, try logging out and then logging back in with alternative login details.
+If you still cannot locate the item, it is possible that it did not save correctly to your library. To find it, use the search function on Spotify and try liking or adding it to your library again by clicking the green heart icon.
+In the event that you suspect unauthorized access to your account, refer to the  Think your account's been hacked?  section for further assistance and steps to secure your account. .
+ 
+			},
+			 question : Why can't i find the music iam looking for? ,
+			 id :0037,
+		}
+		,{
+			 answers :{
+				 answer_start : ,
+				 text : If you're experiencing connection issues with Spotify, there are several troubleshooting steps you can try. First, check the @SpotifyStatus Twitter account to see if there are any ongoing issues reported by Spotify. Make sure that Spotify is not in offline mode by checking the app's Settings under Playback. If you're using a data connection, ensure that you have enough data allowance or consider using a WiFi connection if possible. Check your router and make sure that UPnP (Universal Plug and Play) is enabled. If it's already enabled, try turning it off and then on again.
+Verify that your router allows both inbound and outbound connections for Spotify and ensure that your firewall software permits Spotify access. Temporarily disabling any antivirus, anti-hack, or other security software may help identify if they are causing conflicts with Spotify. Restart your router by turning it off for 10 minutes and then turning it back on. If you're using a shared or public network such as those in schools or offices, contact the network administrators for more information on any restrictions.
+If possible, test Spotify with a different WiFi network to determine if the issue is specific to your network. If it works on another network, contacting your original service provider is recommended. Additionally, consider the following factors: check if the issue occurs on both WiFi and mobile data connections, be aware that VPNs may cause access issues to Spotify webpages, consider your location as Spotify may not be available everywhere, and take note of any specific hours when the issue frequently occurs, as heavy internet traffic during those times may contribute to the problem.
+If you have set the streaming quality to 'High,' it may require a stronger connection, which can lead to issues in areas with weak connectivity. You can confirm if this is the case by conducting a speed test using a trusted site like http://www.speedtest.net/. 
+ 
+			},
+			 question : Why iam having connection issues? ,
+			 id :0038,
+		}
+ 		,{
+			 answers :{
+				 answer_start : ,
+				 text : If you have recently deleted a playlist within the last 90 days, there are two ways to recover it. The first method is to use the playlist recovery feature. To do this, log in to your Spotify account page, navigate to the menu on the left, and click on  Recover playlists.  From there, locate the playlist you want to restore and click on  RESTORE.  Once you've done that, open Spotify, and you'll find the recovered playlist at the bottom of your playlist collection.
+Alternatively, you can use keyboard shortcuts to quickly undo something you deleted. For Mac users, press Cmd+Z, and for Windows users, press Ctrl+Shift+Z. This keyboard shortcut will immediately undo the deletion and restore the playlist or item you deleted. 
+ 
+			},
+			 question : How can i recover my lost playlist? ,
+			 id :0039,
+		},
+		{
+			 answers :{
+				 answer_start : ,
+				 text : Sometimes, users report issues with Spotify's shuffle feature not working properly. In 2016, Spotify made improvements to their shuffle algorithm, which became the default setting for all users. However, they appreciate the feedback received and continue to relay user thoughts to their developers. Despite these improvements, there are still occasional cases where the shuffle function may not work correctly for individual users. Spotify provides troubleshooting steps and threads related to these specific issues to help address them. },
+			 question : Why is not shuffling properly? ,
+			 id :0040,
+		}
+		,
+			{
+			 answers :{
+				 answer_start : ,
+				 text : Sometimes, users report issues with Spotify's shuffle feature not working properly. In 2016, Spotify made improvements to their shuffle algorithm, which became the default setting for all users. However, they appreciate the feedback received and continue to relay user thoughts to their developers. Despite these improvements, there are still occasional cases where the shuffle function may not work correctly for individual users. Spotify provides troubleshooting steps and threads related to these specific issues to help address them. },
+			 question : How do i get access to spotify for artist? ,
+			 id :0041,
+		}
+       ,
+	   	{
+			 answers :{
+				 answer_start : ,
+				 text : If you're a new user on Spotify, the platform will require some information about your music preferences before it can create personalized playlists for you. Usually, it takes about two weeks of active listening for Spotify to generate your Daily Mix and Release Radar playlists. If you don't see these playlists after that time, you can try restarting or updating the Spotify app. Additionally, you may want to try accessing them on another device. These playlists should appear under the  Made For You  section within the app. If you need more detailed information about the Daily Mix and Release Radar playlists, you can find it on Spotify's official website. },
+			 question : How long does it take for my daily mixes and release radar to show up? ,
+			 id :0042,
+		}
+   ,
+	   	{
+			 answers :{
+				 answer_start : ,
+				 text : If you are facing difficulties with Spotify's ability to save offline music to the SD card or if you receive an error message stating  Disk is full,  you can try the following steps to resolve the issue. First, go to your device's System Settings and navigate to the  Apps  section. Locate and select the Spotify app from the list of installed applications. On the Spotify app page, begin by tapping  Force Close  to ensure the app is completely shut down. If the option is available, tap on  Clear cache  to remove any temporary data that might be causing the problem. Next, proceed to tap  Uninstall  to remove the Spotify app from your device. Once the uninstallation process is complete, power off your device. If you can, remove the battery and then power the device back on. Using a file manager app on your phone, navigate to the Internal Storage > Android > Data directory. Locate and delete a folder named  com.spotify.mobile.android.ui  from the Data directory. Finally, reinstall Spotify from the Google Play Store. By following these steps, you may be able to overcome issues related to saving offline music to your SD card or encountering a  Disk is full  error message in Spotify. },
+			 question : Why can't i download music to my SD card? ,
+			 id :0043,
+		}   ,
+	   	{
+			 answers :{
+				 answer_start : ,
+				 text : If you are experiencing problems with Spotify's inability to save offline music to the SD card or if you receive a  Disk is full  error message, you can try the following steps to attempt saving to your SD card:
+
+First, go to your device's System Settings and navigate to the  Apps  section. Locate and select the Spotify app from the list. On the Spotify app page, start by tapping  Force Close  to completely shut down the app.
+If available, tap on  Clear cache  (if it's not greyed out) to remove any temporary data that might be causing the issue. Then proceed by tapping  Uninstall  to remove the Spotify app from your device.
+Once the uninstallation is complete, power off your device. If possible, remove the battery from your device, then power it back on. Use a file manager app on your phone to navigate to the Internal Storage > Android > Data directory.
+Delete a folder called  com.spotify.mobile.android.ui  from the Data directory. Finally, reinstall Spotify from the Google Play Store.
+By following these steps, you may be able to resolve issues related to saving offline music to an SD card or encountering a  Disk is full  error on Spotify. },
+			 question : How does the play queue works? ,
+			 id :0044,
+		}  
+
+    ]
+},
+}
+   
+]

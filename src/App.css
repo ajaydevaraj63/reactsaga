@@ -1,7 +1,89 @@
+.back
+  {
+    background-color: #000000;
+   
+  }
+
+.bg{
+  background-color: aliceblue;
+    width: 50%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+}
 .App {
+  scroll-behavior:unset;
   text-align: center;
+
+ 
+}
+.icon{
+  cursor: pointer;
+  margin: 12px;
+}
+.bordernone{
+  border: none;
+}
+.input-box{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  max-width: 552px;
+  border-radius: 5px;
+   border: none;
+  margin:  auto;
+  display: flex;
+  align-items: center;
+}
+.input-box input{
+  background-color: rgb(255, 255, 255);
+  width:100%;
+  padding: 10px 0;
+  border-radius: 5px;
+border: none;
+  outline: 0;
+  font-size: 18px;
+
+}
+.emailInputbox{
+  border: none;
+padding: 10px ;
+}
+input{
+  padding: 10px;
 }
 
+.emailInput{
+  background-color: rgb(255, 255, 255);
+  width:100%;
+  padding: 10px;
+  border-radius: 55px;
+border: none;
+  outline: 0;
+  font-size: 18px;
+color: #555;
+}
+img{
+  width: 35px;
+  cursor: pointer;
+}
+.eye-icon {
+  position: relative;
+  top: -32px;
+  right: 10px;
+  cursor: pointer;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('./screens//pngtree-vector-eye-icon-png-image_515473.jpg'); /* Replace 'eye-icon.png' with the path to your eye icon image */
+  background-repeat: no-repeat;
+}
+
+.eye-icon-hide {
+  background-image: url(''); /* Replace 'eye-icon-hide.png' with the path to your eye icon (hide) image */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

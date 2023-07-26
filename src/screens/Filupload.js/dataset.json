@@ -1,0 +1,1404 @@
+{
+	"context": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in ios devices.Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in Android devices,uninstall and reinstall the most current version of Spotify. Sign out everywhere and remove offline devices from your Spotify account page in your android device,uninstall and reinstall the most current version of Spotify. Sign out everywhere and remove offline devices from your Spotify account page in your android device.clear the cache and reinstall the app on both the watch and iPhone,clear the cache and reinstall the app on both the watch and android device",
+	"qas": [{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What's causing my Spotify to skip tracks?",
+			"id": "0001"
+		},
+
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What's causing my Spotify to skip tracks?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "How come my Spotify is skipping music constantly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What might be the reason for the skipping problem on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "My Spotify keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify app skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What could be the possible reasons for my Spotify skipping songs randomly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any tips to stop my Spotify from skipping and playing smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my spotify skipping in ios devices.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What's causing my Spotify to skip on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why does Spotify keep skipping songs on my iPhone/iPad?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any idea why my Spotify is skipping tracks on iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "How come my Spotify on iOS is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "My Spotify on iPhone/iPad keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my Spotify app on iOS skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my iPhone/iPad and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "why is my spotify skipping in apple watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why does my Spotify on Apple Watch keep skipping songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any idea why my Apple Watch Spotify app is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "How come my Spotify on Apple Watch is experiencing skipping issues?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "My Spotify on Apple Watch keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why is my Spotify app on Apple Watch skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my Apple Watch and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Why is my Spotify Skipping in desktop windows.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs on my desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What's causing my Spotify to skip tracks?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "How come my Spotify is skipping music constantly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What might be the reason for the skipping problem on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "My Spotify keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify app skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What could be the possible reasons for my Spotify skipping songs randomly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any tips to stop my Spotify from skipping and playing smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my spotify skipping in ios devices.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What's causing my Spotify to skip on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why does Spotify keep skipping songs on my iPhone/iPad?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any idea why my Spotify is skipping tracks on iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "How come my Spotify on iOS is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "My Spotify on iPhone/iPad keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my Spotify app on iOS skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my iPhone/iPad and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "why is my spotify skipping in apple watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why does my Spotify on Apple Watch keep skipping songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any idea why my Apple Watch Spotify app is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "How come my Spotify on Apple Watch is experiencing skipping issues?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "My Spotify on Apple Watch keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why is my Spotify app on Apple Watch skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my Apple Watch and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Why is my Spotify Skipping in desktop windows.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs on my desktop?",
+			"id": "0001"
+		}, {
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "How come my Spotify is skipping music constantly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What might be the reason for the skipping problem on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "My Spotify keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify app skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What could be the possible reasons for my Spotify skipping songs randomly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any tips to stop my Spotify from skipping and playing smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my spotify skipping in ios devices.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What's causing my Spotify to skip on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why does Spotify keep skipping songs on my iPhone/iPad?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any idea why my Spotify is skipping tracks on iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "How come my Spotify on iOS is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "My Spotify on iPhone/iPad keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my Spotify app on iOS skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my iPhone/iPad and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "why is my spotify skipping in apple watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why does my Spotify on Apple Watch keep skipping songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any idea why my Apple Watch Spotify app is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "How come my Spotify on Apple Watch is experiencing skipping issues?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "My Spotify on Apple Watch keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why is my Spotify app on Apple Watch skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my Apple Watch and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Why is my Spotify Skipping in desktop windows.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs on my desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What's causing my Spotify to skip tracks?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "How come my Spotify is skipping music constantly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What might be the reason for the skipping problem on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on my Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "My Spotify keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Why is my Spotify app skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "What could be the possible reasons for my Spotify skipping songs randomly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on."
+			}],
+			"question": "Any tips to stop my Spotify from skipping and playing smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my spotify skipping in ios devices.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What's causing my Spotify to skip on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why does Spotify keep skipping songs on my iPhone/iPad?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any idea why my Spotify is skipping tracks on iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "How come my Spotify on iOS is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for iOS?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "My Spotify on iPhone/iPad keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Why is my Spotify app on iOS skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on iOS devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstall and reinstall the most current version of Spotify"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my iPhone/iPad and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "why is my spotify skipping in apple watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why does my Spotify on Apple Watch keep skipping songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any idea why my Apple Watch Spotify app is skipping and pausing songs?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "How come my Spotify on Apple Watch is experiencing skipping issues?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What might be the reason for the skipping problem on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Can you help me troubleshoot the skipping issue on Spotify for my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "My Spotify on Apple Watch keeps skipping tracks - any suggestions to fix it?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Why is my Spotify app on Apple Watch skipping songs frequently?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "What could be the possible reasons for Spotify skipping songs randomly on my Apple Watch?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "recommended clearing the cache and reinstalling the app on both the Apple Watch and iPhone which solved an issue for playlists that were skipping during playback from Apple Watch"
+			}],
+			"question": "Any tips to stop Spotify from skipping on my Apple Watch and play smoothly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Why is my Spotify Skipping in desktop windows.",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "What's causing my Spotify to skip tracks on my Windows desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "1:Test Other Playback Devices,2:Refresh the Desktop App Installation,3:Reinstall Your Audio Desktop Driver."
+			}],
+			"question": "Any idea why my Spotify is skipping and pausing songs on my desktop?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.here are millions of tracks and episodes on Spotify. So whether you’re behind the wheel, working out, partying or relaxing, the right music or podcast is always at your fingertips. Choose what you want to listen to, or let Spotify surprise you."
+			}],
+			"question": "Spotify?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in ios devices."
+			}],
+			"question": "Why is Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in ios devices."
+			}],
+			"question": "Why is Spotify skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in ios devices."
+			}],
+			"question": "skipping?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in ios devices."
+			}],
+			"question": "Why is my Spotify skipping in ios devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Uninstalling and reinstalling the application generally fixes most issues with skipping, followed by turning your device off and on in Android devices."
+			}],
+			"question": "Why is my Spotify skipping in Android devices?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 141,
+				"text": "uninstall and reinstall the most current version of Spotify. Sign out everywhere and remove offline devices from your Spotify account page in your android device."
+			}],
+			"question": "How can you fix skipping issues in Spotify on an iOS device after update?",
+			"id": "0002"
+		},
+		{
+			"answers": [{
+				"answer_start": 141,
+				"text": "uninstall and reinstall the most current version of Spotify. Sign out everywhere and remove offline devices from your Spotify account page in your android device."
+			}],
+			"question": "How can you fix skipping issues in Spotify on an Android device after update?",
+			"id": "0002"
+		},
+		{
+			"answers": [{
+				"answer_start": 306,
+				"text": "clear the cache and reinstall the app on both the watch and iPhone"
+			}],
+			"question": "How can you fix skipping issues in Spotify on an Apple Watch?",
+			"id": "0003"
+		},
+		{
+			"answers": [{
+				"answer_start": 306,
+				"text": "clear the cache and reinstall the app on both the watch and android device"
+			}],
+			"question": "How can you fix skipping issues in Spotify on an android Watch?",
+			"id": "0003"
+		},
+		{
+			"answers": [{
+				"answer_start": 306,
+				"text": " on both the watch and android device"
+			}],
+			"question": "How can you fix skipping issues in Spotify on an android Watch while playing music?",
+			"id": "0003"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "Why isn’t Shuffle shuffling properly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "what is the reason for  shuffling the elements  not working properly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "Can you help me understand why Shuffle is not performing the shuffling as expected?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "I'm facing an issue with the Shuffle function. What might be causing it to shuffle improperly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "Why does the Shuffle function seem to be failing to shuffle the elements correctly?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "What are some possible explanations for the Shuffle function not working as intended?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "Could you shed some light on the potential causes of the Shuffle function's incorrect shuffling behavior?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "I'm puzzled by the Shuffle function's behavior. What factors could be contributing to its inadequate shuffling?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Make sure that Shuffle isn’t enabled.Go to any playlist and click Play.Whilst playing, go to your Queue.Click Shuffle on and off. Each time, check for any true duplicates or similar combinations."
+			}],
+			"question": "What are the possible sources of error leading to the inadequate shuffling of Shuffle?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "What's the best approach to get my tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "How i can  get my tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "which is the best approach to get my tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "get my tracks in my popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "give me the steps to get my popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "best approach to get our tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "i need tracks in popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "is it possible to  get my tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "show me how to get my tracks included in a popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": " way to get popular Spotify playlist?",
+			"id": "0001"
+		},
+		{
+			"answers": [{
+				"answer_start": 0,
+				"text": "Simply log into your Spotify for Artists account or, if you work at a label, head over to Spotify Analytics. There, you’ll have the option of selecting one unreleased song for playlist consideration and submitting it to our team."
+			}],
+			"question": "is there any chance to get our popular Spotify playlist?",
+			"id": "0001"
+		}
+	]
+}
